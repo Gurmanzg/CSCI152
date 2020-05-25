@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Gurma\source\repos\Week2Project\Week2Project\main.cpp(76,14): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Gurma\source\repos\Week2Project\Week2Project\main.cpp(83,18): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Gurma\source\repos\Week2Project\Week2Project\main.cpp(94,31): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Gurma\source\repos\Week2Project\Week2Project\main.cpp(26,8): warning C4102: 'std': unreferenced label
+  Week2Project.vcxproj -> C:\Users\Gurma\source\repos\Week2Project\Debug\Week2Project.exe
